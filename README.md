@@ -1,5 +1,5 @@
 # java programming
-* > This repository contain java codes based on many topics.
+* > This repository contains java code based on many topics.
 * > Hope you guys like it. Please drop down your valuable feedback.
 * > You can follow or contact me through - 
     1. [ LinkedIn ](https://www.linkedin.com/in/radhika-agarwal-ba769b1b6/)
